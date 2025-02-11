@@ -24,4 +24,8 @@
     "nodemon": "^3.1.9",
     "supertest": "^7.0.0"
   }
+  "engines": {
+  "node": "20.x"
+}
+
 }
